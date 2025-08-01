@@ -7,10 +7,11 @@ Each folder explores a unique intersection of AI and finance, from time series a
 ## Highlights
 
 - Time series wrangling with `yfinance`
-- Custom plots with `matplotlib` and `plotly`
+- Custom plots with `matplotlib`
 - Model evaluation with metrics like MAE and R²
 - Outlier detection in company metadata
 - Financial insights backed by machine learning
+- NLP and sentiment analysis of financial news
 
 ## Technologies Used
 
@@ -19,6 +20,6 @@ Each folder explores a unique intersection of AI and finance, from time series a
 
 ## Notes
 
-This repo showcases my journey through financial data storytelling, machine learning applications, and code-driven insights. It's been a blast merging technical depth with investment theory.
+This repo showcases my journey through financial data storytelling, machine learning applications, and code-driven insights. It's been awesome merging technical depth with investment theory.
 
-Thanks to the Veritas AI team for guiding this experience!
+Thanks to the Veritas AI team for guiding this experience.
